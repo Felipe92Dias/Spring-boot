@@ -1,2 +1,2 @@
-# Spring-boot-projetos
+# Spring-boot
 Trabalhos usando o Spring boot
